@@ -1,0 +1,46 @@
+.navbar-brand img{
+  width: 200px;
+    height: 125px;
+  object-fit: contain;
+  filter: brightness(1.2) contrast(1.1);
+    filter: drop-shadow(5px 5px 10px rgba(0, 0, 0, 0.5));
+}
+
+ .navbar{
+ 	background-color:#3d2e25 ;
+ }  
+   
+ .list-text h3 {
+   color: #ffffacc7;
+   width: 420px;
+   }
+
+#navbarDropdown{
+	color:#b17a2c ;
+   }
+.carousel-item img {
+	height: 600px !important;
+}
+.about{
+	color: #dc3545;
+}
+.bg-color{
+	background-color: #ffc0cb5c;
+	border-radius: 5px;
+}
+button{
+	 background-color: #ff4d6d;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 25px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: 0.3s ease;
+}
+.btn{
+	padding-left: 0;
+}
+.about-img img{
+	border-radius: 5px;
+}
